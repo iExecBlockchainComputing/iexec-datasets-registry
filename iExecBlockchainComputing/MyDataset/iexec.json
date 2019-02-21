@@ -1,0 +1,24 @@
+{
+  "description": "This is an exemple of dataset informations",
+  "license": "MIT",
+  "author": "iExec",
+  "social": {
+    "website": "https://iex.ec/",
+    "github": "https://github.com/iExecBlockchainComputing"
+  },
+  "logo": "logo.jpg",
+  "dataset": {
+    "owner": "0x0000000000000000000000000000000000000000",
+    "name": "MyDataset",
+    "multiaddr": "this.is.mydataset.uri",
+    "checksum": "0x0000000000000000000000000000000000000000"
+  },
+  "dapps": [
+    {
+      "name": "Recomanded-dapp-for-MyDataset",
+      "addresses": {
+        "42": "0x0000000000000000000000000000000000000000"
+      }
+    }
+  ]
+}
