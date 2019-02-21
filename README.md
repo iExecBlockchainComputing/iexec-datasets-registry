@@ -1,4 +1,4 @@
-# iExec Dataset Registry
+# iExec Datasets Registry
 
 In order to list your dataset on the [iExec Data Store](https://dapps.iex.ec/), you need to make it into the iExec Datasets Registry FIRST. But relax, it's very easy:
 
