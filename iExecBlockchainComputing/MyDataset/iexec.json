@@ -1,5 +1,5 @@
 {
-  "description": "This is an exemple of dataset informations",
+  "description": "This is an exemple of iExec dataset, here is a short description of the content of my dataset. This description text must be 150-2000 characters long.",
   "license": "MIT",
   "author": "iExec",
   "social": {
