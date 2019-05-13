@@ -1,0 +1,24 @@
+{
+  "description": "DistractedBoyfriend template for MemeGenerator. Expects 3 arguments such as: '[\"Me using iExec V3 Dataset monetization\",\"Valuable medical datasets\",\"Meme templates\"]'. Don't forget to escape the string for the argument to be a valid JSON.",
+  "license": "MIT",
+  "author": "Hadrien Croubois",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.jpg",
+  "dataset": {
+    "name": "DistractedBoyfriend-for-MemeGenerator",
+    "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
+    "multiaddr": "https://raw.githubusercontent.com/iExecBlockchainComputing/encrypted-datasets/master/MemeGenerator/DistractedBoyfriend/DistractedBoyfriend.zip.enc",
+    "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "dapps": [
+    {
+      "name": "MemeGenerator",
+      "addresses": {
+        "42": "0x9CBfE152B9c2Ff016532ad699C31a015ca511F1c"
+      }
+    }
+  ]
+}
