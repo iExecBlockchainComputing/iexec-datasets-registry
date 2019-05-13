@@ -2,10 +2,7 @@
   "description": "BoardroomMeetingSuggestion template for MemeGenerator. Expects 4 arguments such as: '[\"What is great about iExec V3?\",\"E2E Encryption\",\"Doracles\",\"MemeGenerator\"]'. Don't forget to escape the string for the argument to be a valid JSON.",
   "license": "MIT",
   "author": "Hadrien Croubois",
-  "social": {
-    "website": "https://iex.ec/",
-    "github": ""
-  },
+  "social": {},
   "logo": "logo.jpg",
   "dataset": {
     "name": "BoardroomMeetingSuggestion-for-MemeGenerator",

@@ -2,10 +2,7 @@
   "description": "DistractedBoyfriend template for MemeGenerator. Expects 3 arguments such as: '[\"Me using iExec V3 Dataset monetization\",\"Valuable medical datasets\",\"Meme templates\"]'. Don't forget to escape the string for the argument to be a valid JSON.",
   "license": "MIT",
   "author": "Hadrien Croubois",
-  "social": {
-    "website": "https://iex.ec/",
-    "github": ""
-  },
+  "social": {},
   "logo": "logo.jpg",
   "dataset": {
     "name": "DistractedBoyfriend-for-MemeGenerator",
