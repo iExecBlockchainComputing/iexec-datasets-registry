@@ -1,53 +1,20 @@
 {
-  "description": "My iExec ressource description, must be at least 150 chars long in order to pass the validation checks. Describe your application, dataset or workerpool to your users",
+  "description": "Collection 658 from Neurovault , it contains brain data, coming from Neurovault: a public repository of unthresholded statistical maps, parcellations, and atlases of the brain,",
   "license": "MIT",
-  "author": "?",
+  "author": "er@iex.ec",
   "social": {
-    "website": "?",
-    "github": "?"
+    "website": "https://neurovault.org/",
+    "github": "https://github.com/NeuroVault"
   },
   "logo": "logo.png",
-  "buyConf": {
-    "params": "{ \"0\": \"\" }",
-    "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "trust": 0
-  },
-  "app": {
-    "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
-    "name": "Nilearn",
-    "type": "DOCKER",
-    "multiaddr": "registry.hub.docker.com/iexechub/nilearn:1.0",
-    "checksum": "0xe99d4b1cd590c82373e96f382c808afa8803f46b2e38e827968d0f1774e1dc52",
-    "mrenclave": ""
-  },
-  "order": {
-    "apporder": {
-      "app": "0x91bB56C21a4E9D07FC651a9c24F240A5148Bc511",
-      "appprice": 0,
-      "volume": 1000000,
-      "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "datasetrestrict": "0x0000000000000000000000000000000000000000",
-      "workerpoolrestrict": "0x0000000000000000000000000000000000000000",
-      "requesterrestrict": "0x0000000000000000000000000000000000000000"
-    },
-    "datasetorder": {
-      "dataset": "0x3475e7E80FE99e5D085db9Acc58b3C0Fcf508b36",
-      "datasetprice": 2,
-      "volume": 1000,
-      "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "apprestrict": "0x0000000000000000000000000000000000000000",
-      "workerpoolrestrict": "0x0000000000000000000000000000000000000000",
-      "requesterrestrict": "0x0000000000000000000000000000000000000000"
-    }
-  },
   "dapps": [
     {
-      "name": "Recomanded-dapp-for-MyDataset",
+      "name": "nilearn",
       "addresses": {
-        "42": "0x0000000000000000000000000000000000000000"
+        "42": "0x91bB56C21a4E9D07FC651a9c24F240A5148Bc511"
       },
       "buyConf": {
-        "params": "{ \"0\": \"\" }",
+        "params": { "0": "" },
         "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "trust": 0
       }
