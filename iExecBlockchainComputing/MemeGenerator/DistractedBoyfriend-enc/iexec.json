@@ -7,6 +7,11 @@
     "github": "?"
   },
   "logo": "logo.jpg",
+  "buyConf": {
+    "params": {
+      "0": "[\"boyfriend\",\"girlfriend\",\"distraction\"]"
+    },
+  },
   "dataset": {
     "name": "DistractedBoyfriend-for-MemeGenerator",
     "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
@@ -17,7 +22,7 @@
     {
       "name": "MemeGenerator",
       "addresses": {
-        "42": "0x9CBfE152B9c2Ff016532ad699C31a015ca511F1c"
+        "42": "0x0C06237E703d9d5deB62d14a2513B00F6F306bd0"
       }
     }
   ]
