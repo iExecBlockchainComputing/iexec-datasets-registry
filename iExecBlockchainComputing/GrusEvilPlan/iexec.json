@@ -1,0 +1,26 @@
+{
+  "description": "GrusEvilPlan template for MemeGenerator. Expects 4 arguments such as: '[\"\niExec V3:\n\n- E2E Encryption\",\"\niExec V3:\n\n-E2E Encryption\n\n- DOracles\",\"\niExec V3:\n\n- E2E Encryption\n\n- DOracles\n\n- MemeGenerator\",\"\niExec V3:\n\n- E2E Encryption\n\n- DOracles\n\n- MemeGenerator\"]'. Don't forget to escape the string for the argument to be a valid JSON.",
+  "license": "MIT",
+  "author": "Hadrien Croubois",
+  "social": {},
+  "logo": "logo.jpg",
+  "dataset": {
+    "name": "GrusEvilPlan-for-MemeGenerator",
+    "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
+    "multiaddr": "https://raw.githubusercontent.com/iExecBlockchainComputing/iexec-datasets/master/MemeGenerator/GrusEvilPlan/GrusEvilPlan.zip.enc",
+    "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "dapps": [
+    {
+      "name": "MemeGenerator",
+      "addresses": {
+        "42": "0x0C06237E703d9d5deB62d14a2513B00F6F306bd0"
+      },
+      "buyConf": {
+        "params": {
+          "0": "[\"page1\",\"page2\",\"page3\",\"page4\"]"
+        }
+      }
+    }
+  ]
+}
