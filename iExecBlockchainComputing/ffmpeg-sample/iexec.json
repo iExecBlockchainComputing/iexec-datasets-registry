@@ -1,0 +1,31 @@
+{
+  "description": "This is a sample mp4 video dataset store in IPFS the used of ffmpeg dapp. An .mp4 video converted in .avi. This dataset is for testing purpuse, after this first test you can try to used encrypted dataset with ffmpeg dapp",
+  "license": "MIT",
+  "author": "Jeremy James T",
+  "social": {
+    "website": "https://ipfs.io/ipfs/QmYCPEXXiwp8zSHuUPsogb2W3wShoCFuqVGH7s3KAnNchj",
+    "github": "https://github.com/iExecBlockchainComputing/iexec-datasets-registry/ffmpeg-sample"
+  },
+  "logo": "logo.png",
+  "dapps": [
+    {
+      "name": "ffmpeg",
+      "addresses": {
+        "42": "0x773f85F35b50dAE4f0A4a60898b78Ca355069400"
+      },
+      "buyConf": {
+        "params": {
+          "0": "-i /iexec_in/QmYCPEXXiwp8zSHuUPsogb2W3wShoCFuqVGH7s3KAnNchj /iexec_out/small.avi"
+        },
+        "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "trust": 0
+      }
+    }
+  ],
+  "dataset": {
+    "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
+    "name": "ffmpeg-sample",
+    "multiaddr": "/ipfs/QmYCPEXXiwp8zSHuUPsogb2W3wShoCFuqVGH7s3KAnNchj",
+    "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  }
+}
