@@ -17,6 +17,7 @@
     {
       "name": "nsfwPrediction",
       "addresses": {
+        "1": "0x007D38be25E8A8101d876C1396dF72258dB5b092",
         "42": "0xb5B6D5C9b3CC329148510de40BdAB38e6610e1a7"
       },
       "buyConf": {
