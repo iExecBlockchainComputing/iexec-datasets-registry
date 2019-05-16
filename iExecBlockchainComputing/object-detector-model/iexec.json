@@ -1,0 +1,24 @@
+{
+  "description": "Object-detector-model is a deep learning trained model that detects objects and return their positions in a given image. It can detect up to 20 objects including airplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, people, potted plants, sheep, sofas, trains, and tv monitors.",
+  "license": "MIT",
+  "author": "Zied Guesmi",
+  "social": {},
+  "logo": "logo.png",
+  "dapps": [
+    {
+      "name": "object-detector",
+      "addresses": {
+        "42": "0x98108ac769b983dbC2db04a8a96C3D5694C99D93"
+      },
+      "buyConf": {
+        "params": "{ \"0\": \"https://raw.githubusercontent.com/zied-guesmi/object-detector/master/images/chatting-dog-faces.jpg\" }"
+      }
+    }
+  ],
+  "dataset": {
+    "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
+    "name": "object-detector-model",
+    "multiaddr": "https://raw.githubusercontent.com/iExecBlockchainComputing/encrypted-datasets/master/object-detector-model/object-detector-model.zip.enc",
+    "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  }
+}
