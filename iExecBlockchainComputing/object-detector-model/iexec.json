@@ -20,7 +20,7 @@
   "dataset": {
     "owner": "0xA1162f07afC3e45Ae89D2252706eB355F6349641",
     "name": "object-detector-model",
-    "multiaddr": "https://raw.githubusercontent.com/iExecBlockchainComputing/encrypted-datasets/master/object-detector-model/object-detector-model.zip.enc",
+    "multiaddr": "https://raw.githubusercontent.com/iExecBlockchainComputing/iexec-datasets/master/object-detector-model/object-detector-model.zip.enc",
     "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
   }
 }
