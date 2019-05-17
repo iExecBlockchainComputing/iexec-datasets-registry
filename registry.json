@@ -55,5 +55,10 @@
     "name": "tokenmarket20190512",
     "org": "iExecBlockchainComputing",
     "created": "2019-05-12T00:00:00.000Z"
+  },
+  {
+    "name": "object-detector-model",
+    "org": "iExecBlockchainComputing",
+    "created": "2019-05-16T00:00:00.000Z"
   }
 ]
