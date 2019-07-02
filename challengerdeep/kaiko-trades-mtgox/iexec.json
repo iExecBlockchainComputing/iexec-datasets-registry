@@ -1,0 +1,17 @@
+{
+  "description": "Cryptoasset market data from Kaiko. Kaiko offers high-resolution trades and orderbooks, as well as aggregated data. Strictly for internal usage; redistribution not allowed; additional restrictions apply.",
+  "license": "Restrictions apply",
+  "author": "Robert Edstrom",
+  "social": {
+    "website": "https://www.kaiko.com",
+    "github": "https://github.com/challengerdeep/"
+  },
+  "logo": "logo.png",
+  "dataset": {
+    "owner": "0xA5581e22e7E80cDA4B10E6dD99F5E59e914D15e1",
+    "name": "kaiko-trades-mtgox",
+    "multiaddr": "https://kaiko-iexec-datasets.s3.eu-west-3.amazonaws.com/v1/kovan/MtGox.zip.enc",
+    "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  }
+}
+
