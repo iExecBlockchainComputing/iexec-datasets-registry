@@ -6,12 +6,22 @@
     "website": "https://www.kaiko.com",
     "github": "https://github.com/challengerdeep/"
   },
-  "logo": "logo.png",
+  "logo": "https://avatars1.githubusercontent.com/u/8708664?s=400&u=77591b1a9addf8215bb1dc21d820eb742b13a0ac&v=4",
   "dataset": {
     "owner": "0xA5581e22e7E80cDA4B10E6dD99F5E59e914D15e1",
     "name": "kaiko-trades-mtgox",
     "multiaddr": "https://kaiko-iexec-datasets.s3.eu-west-3.amazonaws.com/v1/kovan/MtGox.zip.enc",
     "checksum": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "order": {
+    "datasetorder": {
+      "dataset": "0x39A5d934fBAb67e007EEfb323e09b5cf75214451",
+      "datasetprice": 100,
+      "volume": 1000000,
+      "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "apprestrict": "0x0000000000000000000000000000000000000000",
+      "workerpoolrestrict": "0x0000000000000000000000000000000000000000",
+      "requesterrestrict": "0x0000000000000000000000000000000000000000"
+    }
   }
 }
-
