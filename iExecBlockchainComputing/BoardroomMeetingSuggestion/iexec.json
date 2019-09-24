@@ -17,9 +17,7 @@
         "42": "0x0C06237E703d9d5deB62d14a2513B00F6F306bd0"
       },
       "buyConf": {
-        "params": {
-          "0": "[\"boss\",\"employe1\",\"employe2\",\"employe3\"]"
-        }
+        "params": "[\"boss\",\"employe1\",\"employe2\",\"employe3\"]"
       }
     }
   ]

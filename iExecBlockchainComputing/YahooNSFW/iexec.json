@@ -21,7 +21,7 @@
         "42": "0xb5B6D5C9b3CC329148510de40BdAB38e6610e1a7"
       },
       "buyConf": {
-        "params": { "0": "https://www.w3schools.com/w3css/img_lights.jpg" }
+        "params": "https://www.w3schools.com/w3css/img_lights.jpg"
       }
     }
   ]
