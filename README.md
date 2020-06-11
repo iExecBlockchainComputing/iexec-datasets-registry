@@ -34,7 +34,7 @@ Once the validation is successful, you can commit & push your dataset config.
 
 ## 5. Github Pull Request
 
-clic on this button to create a Pull Request (from your **forked master branch** TO **iexec-dapps-registry v3 branch**):
+clic on this button to create a Pull Request (from your **forked branch** TO **iexec-dapps-registry v5 branch**):
 
 [![github pull request](./github-pr.png)](https://github.com/iExecBlockchainComputing/iexec-datasets-registry/compare)
 
