@@ -1,64 +1,8 @@
 [
   {
-    "name": "neurovault",
+    "name": "kaiko-api-key",
     "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z",
-    "rank": 50
-  },
-  {
-    "name": "YahooNSFW",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z",
-    "rank": 50
-  },
-  {
-    "name": "BoardroomMeetingSuggestion",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z"
-  },
-  {
-    "name": "DistractedBoyfriend",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z"
-  },
-  {
-    "name": "GrusEvilPlan",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z"
-  },
-  {
-    "name": "TrumpBillSigning",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z"
-  },
-  {
-    "name": "ffmpeg-sample",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-13T00:00:00.000Z"
-  },
-  {
-    "name": "tokenmarket20190422",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-04-22T00:00:00.000Z"
-  },
-  {
-    "name": "tokenmarket20190506",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-06T00:00:00.000Z"
-  },
-  {
-    "name": "tokenmarket20190508",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-08T00:00:00.000Z"
-  },
-  {
-    "name": "tokenmarket20190512",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-12T00:00:00.000Z"
-  },
-  {
-    "name": "object-detector-model",
-    "org": "iExecBlockchainComputing",
-    "created": "2019-05-16T00:00:00.000Z"
+    "created": "2020-07-22T00:00:00.000Z",
+    "rank": 100
   }
 ]
